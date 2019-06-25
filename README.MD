@@ -106,3 +106,4 @@
  - [Paw](https://paw.cloud/) - 高颜值的API测试工具
  - [Medis](https://github.com/luin/medis) - redis可视化工具
  - [NoSqlForMongoDB](https://nosqlbooster.com/downloads) - mongodb可视化工具
+ - [octotree](https://www.octotree.io/) - GitHub树结构侧边栏插件
