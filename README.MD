@@ -104,3 +104,5 @@
  - [Genymotion](https://www.genymotion.com/) - 安卓模拟器
  - [Lantern](https://github.com/getlantern/lantern) - 翻墙
  - [Paw](https://paw.cloud/) - 高颜值的API测试工具
+ - [Medis](https://github.com/luin/medis) - redis可视化工具
+ - [NoSqlForMongoDB](https://nosqlbooster.com/downloads) - mongodb可视化工具
