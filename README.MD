@@ -97,3 +97,10 @@
 
  - [SnippetsLab](http://www.renfei.org/snippets-lab/) (代码片段管理) 
  - [forkapp](https://forkapp.io) (Git可视化管理工具)
+ - [CatchMouse](http://macappstore.org/catchmouse/) - 多个显示器之间来回快速切换鼠标
+ - [1Password](https://1password.com/) - 密码管理工具
+ - [Tencent Lemon](https://mac.gj.qq.com/) - mac清理工具
+ - [SwitchHosts](https://github.com/oldj/SwitchHosts) - 切换host
+ - [Genymotion](https://www.genymotion.com/) - 安卓模拟器
+ - [Lantern](https://github.com/getlantern/lantern) - 翻墙
+ - [Paw](https://paw.cloud/) - 高颜值的API测试工具
