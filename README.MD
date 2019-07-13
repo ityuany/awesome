@@ -1,6 +1,6 @@
 
 ## webpack
-- [webpack](https://github.com/webpack/webpack) 
+- [webpack](https://github.com/webpack/webpack)
 - [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并webpack的配置信息
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - chain风格修改webpack配置
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - webpack开发服务器
@@ -95,9 +95,9 @@
 
 ## 工具
 
- - [SnippetsLab](http://www.renfei.org/snippets-lab/) (代码片段管理) 
+ - [SnippetsLab](http://www.renfei.org/snippets-lab/) (代码片段管理)
  - [forkapp](https://forkapp.io) (Git可视化管理工具)
- - [CatchMouse](http://macappstore.org/catchmouse/) - 多个显示器之间来回快速切换鼠标
+ - [CatchMouse](http://macappstore.org/catchmouse/) - 多个显示器之间来回快速切换鼠标(已经下架，基本处于不维护状态了)
  - [1Password](https://1password.com/) - 密码管理工具
  - [Tencent Lemon](https://mac.gj.qq.com/) - mac清理工具
  - [SwitchHosts](https://github.com/oldj/SwitchHosts) - 切换host
